@@ -1,2 +1,2 @@
-# git-test
+# git_test
 This Repository is intented to be used for testing Git and GitHub.
